@@ -1,5 +1,6 @@
 Description of Apple Pie Recipe 
-6 apples
+<<<<<<< HEAD
+9 apples
 2 cups flour
 1 cup sugar
 3 cups butter
